@@ -1,2 +1,2 @@
 # MesclarPDF
-Scrip Para Juntar PDFs
+Script Para Juntar PDFs
